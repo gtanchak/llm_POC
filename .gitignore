@@ -1,0 +1,12 @@
+venv/
+
+# Enviroments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+llms/
+llms.bak/
